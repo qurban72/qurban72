@@ -1,7 +1,6 @@
-<!-- 👋 Typing Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Qurban+Ali;Junior+ML+Engineer+|+Data+Science+Student;I+❤️+Python,+SQL,+ML,+and+Streamlit;&center=true&width=500&height=50">
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Qurban+Ali;Junior+ML+Engineer+|+Data+Science+Student;I+❤️+Python,+SQL,+ML,+and+Streamlit;&center=true&width=500&height=50" alt="Typing SVG" />
+</p>
 
 ---
 
